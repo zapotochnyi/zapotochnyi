@@ -3,4 +3,4 @@
 ### 📧 Mail me: serhiy.zapotochnyi@gmail.com
 ### Telegram: @zapotochnyi
 ### Languages and Technologies
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-informational?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-#000000?style=flat-square&logo=javascript)
